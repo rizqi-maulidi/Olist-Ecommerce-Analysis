@@ -9,7 +9,7 @@ import contextily as ctx  # Untuk menambahkan basemap
 import numpy as np
 
 # Load dataset
-final_orders = pd.read_csv("C:/Users/Rizqi Maulidi/proyek_analisis_data/dashboard/final_orders_df.csv")
+final_orders = pd.read_csv("dashboard/final_orders_df.csv")
 
 # Konversi kolom tanggal ke datetime
 final_orders["order_delivered_customer_date"] = pd.to_datetime(final_orders["order_delivered_customer_date"])
@@ -244,7 +244,7 @@ with col2:
 
 # Peta Geospasial
 
-geolocation_dataset_df = pd.read_csv("C:/Users/Rizqi Maulidi/proyek_analisis_data/dashboard/geolocation_dataset.csv")
+geolocation_dataset_df = pd.read_csv("dashboard/geolocation_dataset.csv")
 
 st.subheader("🗺️ Geospatial Distribution with Basemap")
 
