@@ -11,7 +11,7 @@ python -m venv venv
 pip install -r requirements.txt
 
 ## Run steamlit app
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 
 ## Tujuan Teknik Analisis dalam File rizqinotebook (6)
 Memahami pola dalam data (eksplorasi dan visualisasi digunakan untuk memahami distribusi dan hubungan antar variabel)
