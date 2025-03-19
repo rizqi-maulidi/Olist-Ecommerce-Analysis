@@ -1,7 +1,7 @@
 # Olist Ecommerce Analysis
 
 ## Deskripsi
-Project ini bertujuan untuk mencari sebuah insight di ecommerce bernama olist mulai dari mencari total dan tren revunue tingkat kepuasan custumer hingga sebaran daerah asal costumer. Data yang saya gunakan berasal dari kaggle dengan link: https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing
+Project ini bertujuan untuk mencari sebuah insight di ecommerce bernama olist mulai dari mencari total dan tren revunue tingkat kepuasan custumer hingga sebaran daerah asal costumer. Data yang saya gunakan berasal dari kaggle dengan link: [https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view?usp=sharing](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Setup Environment - Python (venv)
 mkdir proyek_analisis_data
