@@ -207,14 +207,6 @@ streamlit-folium>=0.13.0
 
 Lihat `requirements.txt` untuk daftar lengkap dependencies.
 
-## 📝 Cara Kontribusi
-
-1. Fork repository ini
-2. Buat branch baru (`git checkout -b feature/improvement`)
-3. Commit perubahan (`git commit -am 'Add new feature'`)
-4. Push ke branch (`git push origin feature/improvement`)
-5. Buat Pull Request
-
 ## 📄 License
 
 Project ini menggunakan lisensi yang sama dengan dataset asli dari Olist. Silakan merujuk ke [Kaggle dataset page](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) untuk informasi lisensi.
